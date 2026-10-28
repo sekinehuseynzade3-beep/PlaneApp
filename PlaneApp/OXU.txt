@@ -1,0 +1,8 @@
+QURASDIRMA
+1) Sesler qovluguna 6 wav faylini at:
+   inishazirliklari.wav, turbulans.wav, kemerler.wav,
+   tesekkurler.wav, bip.wav, isikacmakapamasesi.wav
+2) Sekiller qovluguna 2 sekil at:
+   teyyare.png  (teyyare.png adini "teyyare.png" kimi deyis - ə hərfi olmasın)
+   isiq.png
+3) PlaneApp.csproj faylini Visual Studio-da ac ve F5 bas.
